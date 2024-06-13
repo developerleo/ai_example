@@ -1,0 +1,212 @@
+{
+  "builder_name": "imagefolder",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "autotrain-data-animal-image-classification",
+  "dataset_size": 5646,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Lion/001.jpg": {
+      "num_bytes": 22565,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Lion/002.jpg": {
+      "num_bytes": 20460,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Lion/003.jpg": {
+      "num_bytes": 21860,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Lion/004.jpg": {
+      "num_bytes": 27041,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Lion/005.jpg": {
+      "num_bytes": 22517,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Lion/006.jpg": {
+      "num_bytes": 26427,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Lion/007.jpg": {
+      "num_bytes": 24331,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Lion/008.jpg": {
+      "num_bytes": 23439,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Lion/009.jpg": {
+      "num_bytes": 21371,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Lion/010.jpg": {
+      "num_bytes": 23846,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Tiger/001.jpg": {
+      "num_bytes": 33705,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Tiger/002.jpg": {
+      "num_bytes": 32682,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Tiger/003.jpg": {
+      "num_bytes": 26019,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Tiger/004.jpg": {
+      "num_bytes": 30613,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Tiger/005.jpg": {
+      "num_bytes": 17633,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Tiger/006.jpg": {
+      "num_bytes": 35481,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Tiger/007.jpg": {
+      "num_bytes": 33928,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Tiger/008.jpg": {
+      "num_bytes": 21668,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Tiger/009.jpg": {
+      "num_bytes": 15057,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/train/Train/Tiger/010.jpg": {
+      "num_bytes": 20684,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Lion/001.jpg": {
+      "num_bytes": 22565,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Lion/002.jpg": {
+      "num_bytes": 20460,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Lion/003.jpg": {
+      "num_bytes": 21860,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Lion/004.jpg": {
+      "num_bytes": 27041,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Lion/005.jpg": {
+      "num_bytes": 22517,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Lion/006.jpg": {
+      "num_bytes": 26427,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Lion/007.jpg": {
+      "num_bytes": 24331,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Lion/008.jpg": {
+      "num_bytes": 23439,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Lion/009.jpg": {
+      "num_bytes": 21371,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Lion/010.jpg": {
+      "num_bytes": 23846,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Tiger/001.jpg": {
+      "num_bytes": 33705,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Tiger/002.jpg": {
+      "num_bytes": 32682,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Tiger/003.jpg": {
+      "num_bytes": 26019,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Tiger/004.jpg": {
+      "num_bytes": 30613,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Tiger/005.jpg": {
+      "num_bytes": 17633,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Tiger/006.jpg": {
+      "num_bytes": 35481,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Tiger/007.jpg": {
+      "num_bytes": 33928,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Tiger/008.jpg": {
+      "num_bytes": 21668,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Tiger/009.jpg": {
+      "num_bytes": 15057,
+      "checksum": null
+    },
+    "hf://datasets/BalajiAIdev/autotrain-data-animal-image-classification@b7ab7a5ee3b786929f515bd5217af7b5c61f43fa/raw/image_folders/valid/Test/Tiger/010.jpg": {
+      "num_bytes": 20684,
+      "checksum": null
+    }
+  },
+  "download_size": 1002654,
+  "features": {
+    "image": {
+      "_type": "Image"
+    },
+    "label": {
+      "names": [
+        "Lion",
+        "Tiger"
+      ],
+      "_type": "ClassLabel"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 1008300,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2823,
+      "num_examples": 20,
+      "dataset_name": "autotrain-data-animal-image-classification"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 2823,
+      "num_examples": 20,
+      "dataset_name": "autotrain-data-animal-image-classification"
+    }
+  },
+  "task_templates": [
+    {
+      "task": "image-classification",
+      "label_column": "label"
+    }
+  ],
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
