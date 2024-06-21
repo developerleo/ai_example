@@ -1,3 +1,6 @@
 .idea
 .idea/*
 __pycache__/
+
+machine_learning_courses/ViT/finetune_for_endoscopists/out/**
+machine_learning_courses/ViT/finetune_for_endoscopists/data/**
