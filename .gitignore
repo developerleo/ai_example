@@ -4,3 +4,7 @@ __pycache__/
 
 machine_learning_courses/ViT/finetune_for_endoscopists/out/**
 machine_learning_courses/ViT/finetune_for_endoscopists/data/**
+machine_learning_courses/ViT/finetune_for_endoscopists/data/*
+machine_learning_courses/ViT/finetune_for_animal/out
+machine_learning_courses/ViT/finetune_for_animal/out/*
+machine_learning_courses/ViT/finetune_for_animal/out/**
