@@ -8,3 +8,11 @@ machine_learning_courses/ViT/finetune_for_endoscopists/data/*
 machine_learning_courses/ViT/finetune_for_animal/out
 machine_learning_courses/ViT/finetune_for_animal/out/*
 machine_learning_courses/ViT/finetune_for_animal/out/**
+
+machine_lerning/knn/testDigits
+machine_lerning/knn/testDigits/*
+machine_lerning/knn/testDigits/**
+
+machine_lerning/knn/trainingDigits
+machine_lerning/knn/trainingDigits/*
+machine_lerning/knn/trainingDigits/**
