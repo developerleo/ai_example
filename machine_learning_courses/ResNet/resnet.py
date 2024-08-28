@@ -1,7 +1,7 @@
 import tensorflow as tf
-from tensorflow.python import keras
-from tensorflow.python.keras import layers, Sequential
-from keras.layers import BatchNormalization
+import keras
+from keras import layers, Sequential
+from keras.src.layers import BatchNormalization
 
 
 class BasicBlock(layers.Layer):

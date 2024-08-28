@@ -1,8 +1,6 @@
 import tensorflow as tf
-from tensorflow.python import keras
-from tensorflow.python.keras import layers, Sequential, optimizers
-from keras.datasets import cifar100
-from keras.optimizers import Adam
+from keras.src.datasets import cifar100
+from keras.src.optimizers import Adam
 import os
 from resnet import resnet18
 
