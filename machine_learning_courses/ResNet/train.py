@@ -21,7 +21,7 @@ y_test = tf.squeeze(y_test, axis=1)
 print(x.shape, y.shape, x_test.shape, y_test.shape)
 
 train_db = tf.data.Dataset.from_tensor_slices((x, y))
-train_db = train_db.shuffle(10).map(preprocess).batch(8)
+train_db = train_db.shuffle(1000).map(preprocess).batch(8)
 
 test_db = tf.data.Dataset.from_tensor_slices((x, y))
 test_db = test_db.map(preprocess).batch(8)
@@ -58,7 +58,7 @@ def main():
             pred = tf.argmax(prob, axis=1)
             pred = tf.cast(pred, dtype=tf.int32)
 
-            correct = tf.cast(tf.equel(pred, y), dtype=tf.int32)
+            correct = tf.cast(tf.equal(pred, y), dtype=tf.int32)
             correct = tf.reduce_sum(correct)
 
             total_num += x.shape[0]
