@@ -41,6 +41,8 @@ def main():
     model = torchvision.models.detection.__dict__[args.model](num_classes=num_classes, pretrained=True)
     #model = model.cuda()
 
+    #在训练开始之前写上 model.trian() ，在测试时写上 model.eval()
+    #model.train() 会启用 BatchNormalization 和 Dropout，model.eval() 则相反
     model.eval()
 
     src_img = cv2.imread(args.image_path)
