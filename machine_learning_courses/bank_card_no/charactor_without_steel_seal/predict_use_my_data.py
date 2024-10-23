@@ -6,7 +6,7 @@ from pathlib import Path
 from num_dataloader import MyDataset
 from torch.utils.data import DataLoader
 
-from machine_learning_courses.bank_card_no.charactor_without_steel_seal.ImgHandle import get_predict_img
+from deep_learning_courses.bank_card_no.charactor_without_steel_seal.ImgHandle import get_predict_img
 from train_ues_my_data import TrainModule
 
 
