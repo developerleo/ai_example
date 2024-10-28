@@ -4,6 +4,7 @@ import cv2
 import numpy
 import numpy as np
 from PIL import Image
+#一个用于从图像生成embedding向量的Python包，使用Hugging Face transformers的强大CLIP模型。
 from imgbeddings import imgbeddings
 from qdrant_client import QdrantClient
 from qdrant_client.http import models
@@ -40,7 +41,7 @@ def detect_face(image_path, target_path):
 def generate_embeddings(image_path):
     #
     # loading the face image path into file_name variable
-    #file_name = "/content/target_photo_1.jpg"
+    #file_name = "/content/target_phot o_1.jpg"
     # opening the image
     img = Image.open(image_path)
     # loading the `imgbeddings`
